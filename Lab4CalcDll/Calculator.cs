@@ -12,6 +12,5 @@ namespace Lab4CalcDll
         {
             return N1 + N2;
         }
-        //next
     }
 }
