@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4CalcDll", "Lab4CalcDll\Lab4CalcDll.csproj", "{329286C6-5FD3-4234-9446-02EA2A87E284}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc_Wpf", "Calc_Wpf\Calc_Wpf.csproj", "{B98DC648-72EA-421B-8AB7-60BC364A4082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329286C6-5FD3-4234-9446-02EA2A87E284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329286C6-5FD3-4234-9446-02EA2A87E284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329286C6-5FD3-4234-9446-02EA2A87E284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329286C6-5FD3-4234-9446-02EA2A87E284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B98DC648-72EA-421B-8AB7-60BC364A4082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B98DC648-72EA-421B-8AB7-60BC364A4082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B98DC648-72EA-421B-8AB7-60BC364A4082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B98DC648-72EA-421B-8AB7-60BC364A4082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8228D1FB-D22A-43B7-928C-FF4296C3CEFF}
+	EndGlobalSection
+EndGlobal
