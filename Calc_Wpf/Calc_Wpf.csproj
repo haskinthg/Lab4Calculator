@@ -6,4 +6,8 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Lab4CalcDll\Lab4CalcDll.csproj" />
+  </ItemGroup>
+
 </Project>
