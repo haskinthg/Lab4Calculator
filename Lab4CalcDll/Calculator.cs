@@ -12,6 +12,10 @@ namespace Lab4CalcDll
         {
             return N1 + N2;
         }
-        //next
+
+        public static double difference(double N1, double N2)
+        {
+            return N1 - N2;
+        }
     }
 }
