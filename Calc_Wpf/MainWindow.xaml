@@ -9,6 +9,8 @@
     <Grid>
         <Button Content="+" HorizontalAlignment="Left" Margin="82,161,0,0" VerticalAlignment="Top" Height="96" Width="130"/>
         <TextBox HorizontalAlignment="Left" Margin="46,72,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="301" Height="52"/>
+        <TextBox HorizontalAlignment="Left" Margin="440,72,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="301" Height="52"/>
+        <Button Content="-" Margin="336,161,334,177" Width="130" Height="96"/> 
 
     </Grid>
 </Window>
